@@ -52,5 +52,5 @@
 
 
 
-[![Linkedin: Gabriel Stenzowski](https://img.shields.io/badge/-GABRIEL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabrielstenzowski/)](https://https://www.linkedin.com/in/gabrielstenzowski/)
+[![Linkedin: Gabriel Stenzowski](https://img.shields.io/badge/-GABRIEL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabrielstenzowski/)](https://www.linkedin.com/in/gabrielstenzowski/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.stenzowskicav@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.stenzowskicav@gmail.com)](mailto:gabriel.stenzowskicav@gmail.com)
