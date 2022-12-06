@@ -7,7 +7,7 @@
 <h3> Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistema na <a href="https://www.up.edu.br/">Universidade Positivo</a>.
-- 🔭 &nbsp; Aprendendo mais sobre Java, JavaScript, Kotlin & React
+- 🔭 &nbsp; Aprendendo mais sobre JavaScript & React
 - 💬 &nbsp; Estudando sobre Desenvolvimento Web & Mobile
 
 <h3> 🧠 Minhas Skills 🧠 </h3>
