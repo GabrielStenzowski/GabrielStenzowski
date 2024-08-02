@@ -6,7 +6,7 @@
 
 <h3> Sobre mim </h3>
 
-- 🎓 &nbsp; Grauado em Analise e Desenvolvimento de Sistema na <a href="https://www.up.edu.br/">Universidade Positivo</a>.
+- 🎓 &nbsp; Graduado em Analise e Desenvolvimento de Sistema na <a href="https://www.up.edu.br/">Universidade Positivo</a>.
 - 🔭 &nbsp; Aprendendo mais sobre React & React Native
 - 💬 &nbsp; Estudando sobre Desenvolvimento Web & Mobile
 
