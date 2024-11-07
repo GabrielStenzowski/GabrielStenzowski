@@ -54,3 +54,12 @@
 
 [![Linkedin: Gabriel Stenzowski](https://img.shields.io/badge/-GABRIEL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabrielstenzowski/)](https://www.linkedin.com/in/gabrielstenzowski/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.stenzowskicav@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.stenzowskicav@gmail.com)](mailto:gabriel.stenzowskicav@gmail.com)
+
+### Status
+    
+  <div align="left">
+  <a href="https://github.com/GabrielStenzowski">
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielStenzowski&show_icons=true&locale=en&layout=compact" alt="GabrielStenzowski" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielStenzowski&show_icons=true&locale=en" alt="GabrielStenzowski" />
+</div> 
+
